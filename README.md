@@ -1,5 +1,5 @@
 <h2><b><i>Hello I am BaD$AngeL 👋</i></b></h2>
-<b><i>💻 I'm a CyberSecurity Student, Solution Architect, Serverless Developer</i></b>
+<b><i>💻 I'm a CyberSecurity Student</i></b>
 
 
 
