@@ -1,15 +1,8 @@
 <h2><b><i>Hello I am BaD$AngeL 👋</i></b></h2>
+
 <b><i>💻 I'm a CyberSecurity Student</i></b>
 
-💻   <i>💻 Interested in cryptography, web pentesting</i>
-
-
-## Connect with me
-
-[![LinkedIn](./img/linkedin-light.svg)](https://linkedin.com/in/zolbooo#gh-light-mode-only)
-[![LinkedIn](./img/linkedin-dark.svg)](https://linkedin.com/in/zolbooo#gh-dark-mode-only)
-[![Instagram](./img/instagram-light.svg)](www.linkedin.com/in/ulmaa-ulambayar-10474322a)
-[![Instagram](./img/instagram-dark.svg)](www.linkedin.com/in/ulmaa-ulambayar-10474322a)
+<i>💻 Interested in cryptography, web pentesting</i>
 
 ## Certifications
 
