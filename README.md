@@ -3,15 +3,21 @@
 
 💻   <i>💻 Interested in cryptography, web pentesting</i>
 
-<h3>Connect with me</h3>
-<a href="www.linkedin.com/in/ulmaa-ulambayar-10474322a" LinkedIn> 
-  
-<h3>Certifications</h3>
- <a href="https://www.credly.com/badges/c1c03aa6-9ff9-472e-bb74-68e19751687e/linked_in_profile" AWS Certified Cloud Practicioner>
+
+## Connect with me
+
+[![LinkedIn](./img/linkedin-light.svg)](https://linkedin.com/in/zolbooo#gh-light-mode-only)
+[![LinkedIn](./img/linkedin-dark.svg)](https://linkedin.com/in/zolbooo#gh-dark-mode-only)
+[![Instagram](./img/instagram-light.svg)](www.linkedin.com/in/ulmaa-ulambayar-10474322a)
+[![Instagram](./img/instagram-dark.svg)](www.linkedin.com/in/ulmaa-ulambayar-10474322a)
+
+## Certifications
+
+[AWS Certified Cloud Practicioner](https://www.credly.com/badges/c1c03aa6-9ff9-472e-bb74-68e19751687e)
 
 
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
-<!-- <a href="https://github.com/xyptonize"><img width=550 src="https://github-profile-trophy.vercel.app/?username=xyptonize&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a> -->
+
 <a href="https://github.com/ulambayar0511"><img src="https://github-profile-trophy.vercel.app/?username=ulambayar0511&theme=darkhub&margin-w=13&margin-h=15&column=7"/></a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
