@@ -1,8 +1,13 @@
 <h2><b><i>Hello I am BaD$AngeL 👋</i></b></h2>
 <b><i>💻 I'm a CyberSecurity Student</i></b>
 
+💻   <i>💻 Interested in cryptography, web pentesting</i>
 
-
+<h3>Connect with me</h3>
+<a href="www.linkedin.com/in/ulmaa-ulambayar-10474322a" LinkedIn> 
+  
+<h3>Certifications</h3>
+ <a href="https://www.credly.com/badges/c1c03aa6-9ff9-472e-bb74-68e19751687e/linked_in_profile" AWS Certified Cloud Practicioner>
 
 
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
